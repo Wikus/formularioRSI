@@ -72,7 +72,7 @@
                 <div class="title m-b-md">
                     ¡Gracias!
                     <h2>Registro guardado</h2>
-                    <h4>por David Vaca Prieto</h4>
+                    <h4>por David VP</h4>
                 </div>
                 <a href="/">Volver</a>
             </div>

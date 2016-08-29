@@ -1,3 +1,16 @@
+# Formulario RSI 
+
+## Instrucciones
+
+* Configurar el enviroment en .env en la carpeta raiz para conectar a la BD
+* Migrar tabla en BD con "php artisan migrate", alojada en database/migrations/2016_08_29_202805_create_pruebatablas_table.php
+* Renovar KEY de artisan con "php artisan key:generate"
+* Iniciar instancia de artisan con "php artisan serve"
+
+
+
+## Desarrollado por David VP en:
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
