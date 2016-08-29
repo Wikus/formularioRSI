@@ -13,7 +13,10 @@ class PruebatablaController extends Controller
 {
     public function index()
     {
-      	return view('welcome');
+      
+      	$test = Pruebatabla::all();
+      	return view('welcome', array('test' => $test));
+      
     }
 
     public function store(FormularioRequest $request)
